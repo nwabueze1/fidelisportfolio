@@ -118,15 +118,27 @@ export default function AboutMe() {
               </div>
               <div className="mt-2">
                 <div className="flex justify-between mb-2">
-                  <span className="text-slate-400">
-                    NodeJs (Express/NestJs)
-                  </span>
-                  <span className="text-slate-400">95%</span>
+                  <span className="text-slate-400">React Native</span>
+                  <span className="text-slate-400">75%</span>
                 </div>
                 <div className="w-full bg-gray-100 dark:bg-gray-800 rounded-full h-[6px]">
                   <div
                     className="bg-primary-600 h-[6px] rounded-full"
-                    style={{ width: "95%" }}
+                    style={{ width: "75%" }}
+                  ></div>
+                </div>
+              </div>
+              <div className="mt-2">
+                <div className="flex justify-between mb-2">
+                  <span className="text-slate-400">
+                    NodeJs (Express/NestJs)
+                  </span>
+                  <span className="text-slate-400">99%</span>
+                </div>
+                <div className="w-full bg-gray-100 dark:bg-gray-800 rounded-full h-[6px]">
+                  <div
+                    className="bg-primary-600 h-[6px] rounded-full"
+                    style={{ width: "99%" }}
                   ></div>
                 </div>
               </div>
@@ -163,6 +175,18 @@ export default function AboutMe() {
                   <div
                     className="bg-primary-600 h-[6px] rounded-full"
                     style={{ width: "93%" }}
+                  ></div>
+                </div>
+              </div>
+              <div className="mt-2">
+                <div className="flex justify-between mb-2">
+                  <span className="text-slate-400">Linux (Docker)</span>
+                  <span className="text-slate-400">90%</span>
+                </div>
+                <div className="w-full bg-gray-100 dark:bg-gray-800 rounded-full h-[6px]">
+                  <div
+                    className="bg-primary-600 h-[6px] rounded-full"
+                    style={{ width: "90%" }}
                   ></div>
                 </div>
               </div>
