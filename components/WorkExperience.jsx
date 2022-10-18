@@ -22,18 +22,18 @@ export default function WorkExperience() {
               <div className="grid sm:grid-cols-2">
                 <div className="">
                   <div className="duration date-label-left md:text-right md:mr-8 relative">
-                    <img
+                    {/* <img
                       src="assets/images/client/shree-logo.png"
                       className="rounded-full h-9 w-9 md:ml-auto"
                       alt=""
-                    />
+                    /> */}
                     <h5 className="my-2 font-semibold">Pavestones Legal</h5>
                     <h6 className="text-slate text-sm mb-0">2022-current</h6>
                   </div>
                 </div>
                 <div className="mt-4 md:mt-0">
                   <div className="event event-description-right float-left text-left md:ml-8">
-                    <h5 className="title mb-1 font-semibold">Web Developer</h5>
+                    <h5 className="title mb-1 font-semibold">Tech Lead</h5>
                     <p className="timeline-subtitle mt-3 mb-0 text-slate-400">
                       I work with the team members to design and build to
                       software solutions to ease their day to day business Logic
@@ -47,24 +47,23 @@ export default function WorkExperience() {
               <div className="grid sm:grid-cols-2">
                 <div className="md:order-1 order-2">
                   <div className="event event-description-left float-left text-right md:mr-8">
-                    <h5 className="title mb-1 font-semibold">
-                      Junior Developer
-                    </h5>
+                    <h5 className="title mb-1 font-semibold">Web Developer</h5>
                     <p className="timeline-subtitle mt-3 mb-0 text-slate-400">
-                      i worked as a Junior web Developer in this firm, helping
-                      the team members design and build testable applications.
+                      i worked as a web Developer in this firm, helping the team
+                      members design and build testable applications.
                     </p>
                   </div>
                 </div>
                 <div className="md:order-2 order-1">
                   <div className="duration duration-right md:ml-8 relative">
-                    <img
+                    {/* <div className="h-9 w-9 bg-blue-600 rounded-xl"></div> */}
+                    {/* <img
                       src="assets/images/client/google-logo.png"
-                      className="rounded-full h-9 w-9"
+                      className=" h-9 w-9"
                       alt=""
-                    />
+                    /> */}
                     <h5 className="my-2 font-semibold">Terry Blue.</h5>
-                    <h6 className="text-slate text-sm mb-0">2020-21</h6>
+                    <h6 className="text-slate text-sm mb-0">2018-21</h6>
                   </div>
                 </div>
               </div>
@@ -74,13 +73,13 @@ export default function WorkExperience() {
               <div className="grid sm:grid-cols-2">
                 <div className="mt-4 mt-sm-0">
                   <div className="duration date-label-left md:text-right md:mr-8 relative">
-                    <img
+                    {/* <img
                       src="assets/images/client/lenovo-logo.png"
                       className="rounded-full h-9 w-9 md:ml-auto"
                       alt=""
-                    />
+                    /> */}
                     <h5 className="my-2 font-semibold">Heros Tech.</h5>
-                    <h6 className="text-slate text-sm mb-0">2019-20</h6>
+                    <h6 className="text-slate text-sm mb-0">2017-18</h6>
                   </div>
                 </div>
                 <div className="mt-4 mt-sm-0">
