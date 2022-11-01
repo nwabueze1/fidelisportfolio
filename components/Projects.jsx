@@ -21,26 +21,18 @@ export default function Projects() {
       </div>
       <div className="container md:mt-24 mt-16">
         <div className="grid md:grid-cols-2 grid-cols-1 items-center mt-16 gap-[30px]">
-          <Link
-            href={"http://legalmarketplace.vercel.app/"}
-            passHref
-            target={"_blank"}
-            referrerPolicy="no-referrer"
-            translate="yes"
-          >
-            <div className="relative">
-              <img
-                src="assets/images/done-with-it.gif"
-                className="mx-auto"
-                alt=""
-                style={{
-                  height: 500,
-                  // width: 400,
-                }}
-              />
-              <div className="overflow-hidden absolute lg:h-[400px] h-[320px] lg:w-[400px] w-[320px] bg-primary-600/5 bottom-2/4 translate-y-2/4 left-0 rotate-45 -z-1 shadow-md shadow-primary-600/10 rounded-[100px]"></div>
-            </div>
-          </Link>
+          <div className="relative">
+            <img
+              src="assets/images/done-with-it.gif"
+              className="mx-auto"
+              alt=""
+              style={{
+                height: 500,
+                // width: 400,
+              }}
+            />
+            <div className="overflow-hidden absolute lg:h-[400px] h-[320px] lg:w-[400px] w-[320px] bg-primary-600/5 bottom-2/4 translate-y-2/4 left-0 rotate-45 -z-1 shadow-md shadow-primary-600/10 rounded-[100px]"></div>
+          </div>
 
           <div className="lg:ml-8">
             <h4 className="mb-4 md:text-3xl text-2xl lg:leading-normal leading-normal font-medium">
@@ -285,7 +277,7 @@ export default function Projects() {
 
             <div class="mt-4">
               <Link
-                href={"https://carfidelis.herokuapp.com/"}
+                href={"https://printing-press.vercel.app/"}
                 passHref
                 translate="yes"
                 target={"_blank"}
