@@ -63,7 +63,7 @@ export default function WorkExperience() {
                       alt=""
                     /> */}
                     <h5 className="my-2 font-semibold">Terry Blue.</h5>
-                    <h6 className="text-slate text-sm mb-0">2018-21</h6>
+                    <h6 className="text-slate text-sm mb-0">2020-21</h6>
                   </div>
                 </div>
               </div>
@@ -79,17 +79,15 @@ export default function WorkExperience() {
                       alt=""
                     /> */}
                     <h5 className="my-2 font-semibold">Heros Tech.</h5>
-                    <h6 className="text-slate text-sm mb-0">2017-18</h6>
+                    <h6 className="text-slate text-sm mb-0">2018-20</h6>
                   </div>
                 </div>
                 <div className="mt-4 mt-sm-0">
                   <div className="event event-description-right float-left text-left md:ml-8">
-                    <h5 className="title mb-1 font-semibold">Internship</h5>
-                    <p className="timeline-subtitle mt-3 mb-0 text-slate-400">
-                      {/* The generated injected humour, or non-characteristic words
-                      etc. Cum sociis natoque penatibus et magnis dis parturient
-                      montes, nascetur ridiculus mus. Donec quam felis, */}
-                    </p>
+                    <h5 className="title mb-1 font-semibold">
+                      Frontend Developer
+                    </h5>
+                    <p className="timeline-subtitle mt-3 mb-0 text-slate-400"></p>
                   </div>
                 </div>
               </div>

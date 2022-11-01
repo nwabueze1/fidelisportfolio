@@ -36,12 +36,12 @@ export default function WhatDoIOffer() {
           subtitle="I use Nextjs to build modern web applications."
           icon={<i className="uil uil-airplay"></i>}
         />
-        {/* 
+
         <Badge
           icon={<i className="uil uil-shutter"></i>}
           title={"Mobile Application"}
           subtitle="I use React Native to build modern mobile applications."
-        /> */}
+        />
         <Badge
           title={"Backend Development"}
           subtitle={
@@ -53,6 +53,11 @@ export default function WhatDoIOffer() {
           title={"Database Management"}
           subtitle="I use Relational Databases like MySql and No Sql Databases like MongoDb"
           icon={<i className="uil uil-flower"></i>}
+        />
+        <Badge
+          title={"Email Marketing"}
+          subtitle="I use mail chimp to send campaign emails for clients"
+          icon={<i className="uil uil-message"></i>}
         />
         <Badge
           title={"24/7 support"}
